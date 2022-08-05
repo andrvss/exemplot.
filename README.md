@@ -28,16 +28,6 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" alt="angular" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
    
- </div> 
- <hr>
+ </div>   
  
- <div>  
- 
- ## 🐍 Snake eating contribution graph 🐍
- 
- <div>  
- 
-  ![Snake animation](https://github.com/DevOrosco/DevOrosco/blob/output/github-contribution-grid-snake.svg) 
- 
- </div>
-<hr>
+
