@@ -1,19 +1,15 @@
-<h1 align="center">Olá 👋,me Chamo Luciano Augusto da Silva Junior 🚀</h1>
+<h1 align="center">Olá 👋,me Chamo Vinicius Orosco Costa 🚀</h1>
 
-- 🔭 Atualmente estou procurando estágio em Análise e Desenvolvimento de Sistemas *
+- 🔭 Atualmente estou estudando Programação com o Instituto Proa*
 
-- 🌱 Atualmente estou aprendendo JavaScript*
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/LusoNetto](https://github.com/LusoNetto)
-
- - 💬 Pergunte-me sobre JavaScript, C++, JAVA, GitHub, Python*
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/LusoNetto](https://github.com/DevOrosco)
 
  - 💖 Apaixonado por Programação.
  
 <hr>
 <div align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LusoNetto&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LusoNetto&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOrosco&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -41,13 +37,7 @@
  
  <div>  
  
-  ![Snake animation](https://github.com/LusoNetto/LusoNetto/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/DevOrosco/DevOrosco/blob/output/github-contribution-grid-snake.svg) 
  
  </div>
 <hr>
- <div> 
-   
-<a href="https://api.whatsapp.com/send?phone=5511997398130" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/luciano-augusto-9675751b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  
- </div>
