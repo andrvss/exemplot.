@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou estudando Programação com o Instituto Proa*
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/LusoNetto](https://github.com/DevOrosco)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/DevOrosco](https://github.com/DevOrosco)
 
  - 💖 Apaixonado por Programação.
  
