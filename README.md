@@ -1,8 +1,11 @@
-<h1 align="center">Olá 👋,me Chamo Vinicius Orosco Costa 🚀</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!;+Meu+nome+é+Vinicius+Orosco+Costa;Tenho+18+anos;Sou+de+Mogi+das+Cruzes,+SP,+Brasil;Bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 - Cursando Analise e Desenvolvimento de Sistemas na Fatec (2/6)
 
-- 🔭 Atualmente estou estudando Programação com o Instituto Proa*
+- 🔭 Atualmente estou estudando Programação Web Java com o Instituto Proa*
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/DevOrosco](https://github.com/DevOrosco)
 
@@ -11,8 +14,8 @@
 <hr>
 <div align="center">
   <a href="https://github.com/DevOrosco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevOrosco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOrosco&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevOrosco&show_icons=true&theme=gotham&hide_border=true&area=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOrosco&layout=compact&langs_count=7&theme=gotham&hide_border=true&area=true"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Orosco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
